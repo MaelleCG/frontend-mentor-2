@@ -150,6 +150,7 @@ header p {
     flex-direction: row;
     justify-content: center;
     margin: 20px 80px;
+    align-items: flex-end;
 
 }
 
